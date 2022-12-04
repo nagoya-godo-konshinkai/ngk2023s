@@ -2,7 +2,7 @@
 
 ## 基本ルール
 * LTは **5分厳守制** です。5分経過時に配信が強制停止されます。時間が余っても5分経過するまでは放置されます。
-* [アンチハラスメントポリシー](https://nagoya-godo-konshinkai.github.io/ngk2023s/anti-harassment-policy.md) を熟読の上、遵守ください。
+* [アンチハラスメントポリシー](https://nagoya-godo-konshinkai.github.io/ngk2023s/anti-harassment-policy.html) を熟読の上、遵守ください。
 * IT系コミュニティ合同のイベントではありますが、LT内容は必ずしも「IT」にこだわる必要はありません。例年、「広島カープ」、「チョコレート」、「京都の風光明媚な写真」などなど、様々なトピックが出てきます。
 * 発表資料をconnpass、SpeakerDeck、自身のウェブサイトなどに公開してもしなくても構いません。
 
