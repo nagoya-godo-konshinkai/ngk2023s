@@ -34,7 +34,9 @@ conpassイベントページ用のmarkdown。バージョン管理するため�
 
 ### docs/
 GitHub Pagesで公開しているディレクトリ。
+
 URLは https://nagoya-godo-konshinkai.github.io/ngk2023s/ 
+
 markdownファイルはhtmlファイルに変換される。
 
 #### docs/img/
