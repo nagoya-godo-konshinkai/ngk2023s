@@ -17,10 +17,11 @@ Googleフォームに入力していただいた「LTタイトル」、「LT概�
 審査は随時行います。
 
 
-## (WIP) 企業スポンサー募集中
+## 企業スポンサー募集中
 NGK2023Sでは「東海地方に縁のあるIT系コミュニティの発展を図る」と言う目的にご賛同いただける法人スポンサーを募集しております。
 
-TODO
+[募集要項](https://nagoya-godo-konshinkai.github.io/ngk2023s/sponsors-prospectus.html)をお読みの上、[Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLSfaJ_VQ6WtGt1XFVoCEXNyWb1zGIB9k2TQmU7zrEvP62XCmTw/viewform)から応募ください。
+申込期限は **2022/12/23(金) 18:00** です。
 
  
 ##  (WIP) 協力コミュニティ募集中
