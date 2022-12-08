@@ -1,5 +1,5 @@
 # ngk2023s
-NGK2023Sに関するファイルの置き場所
+[NGK2023S](https://ngk2022s.connpass.com/event/265837/)に関するファイルの置き場所
 
 
 ## ディレクトリ構成
