@@ -28,7 +28,7 @@ NGK2023Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 NGK2023Sでは「東海地方に縁のあるIT系コミュニティの発展を図る」目的でコミュニティ活動を宣伝できる場を用意しております。
 
 
-[募集要項](https://nagoya-godo-konshinkai.github.io/ngk2023s/sponsors-prospectus.html)をお読みの上、[Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLScbjVzbh4rcjslGmeryL8I4CT5XgwveX49GRNIrPXeWBh67uQ/viewform)から応募ください。
+[募集要項](https://nagoya-godo-konshinkai.github.io/ngk2023s/community-prospectus.html)をお読みの上、[Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLScbjVzbh4rcjslGmeryL8I4CT5XgwveX49GRNIrPXeWBh67uQ/viewform)から応募ください。
 申込期限は **2022/12/23(金) 18:00** です。
 
 
