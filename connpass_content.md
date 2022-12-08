@@ -51,7 +51,7 @@ https://nagoya-godo-konshinkai.github.io/ngk2023s/anti-harassment-policy.html
 # 企業スポンサー（五十音順）
 <table>
 <tr>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/doc/img/sponsor/n2i.png"/><br/><a href="https://n2i.jp/">株式会社N2i</a></td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/sponsor/n2i.png"/><br/><a href="https://n2i.jp/">株式会社N2i</a></td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/sponsor/empty.png"/><br/>準備中</td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/sponsor/empty.png"/><br/>準備中</td>
 </tr>
