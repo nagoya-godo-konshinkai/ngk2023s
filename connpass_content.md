@@ -63,7 +63,7 @@ https://nagoya-godo-konshinkai.github.io/ngk2023s/anti-harassment-policy.html
 <table>
 <tr>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/sponsor/n2i.png"/><br/><a href="https://n2i.jp/">株式会社N2i</a></td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/sponsor/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/sponsor/kci.png"/><br/><a href="https://kurusugawa.jp/">有限会社来栖川電算</a></td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/sponsor/empty.png"/><br/>準備中</td>
 </tr>
 <tr>
