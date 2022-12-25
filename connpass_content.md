@@ -42,6 +42,12 @@ NGK2023Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 |polymonyRKS|技術書典にオフライン参加した話（仮）|
 |Hi. NONOGAKI|RFC 5322 に浸かろう|
 |kokuyouwind|オンラインボードゲームを作りたい人生だった|
+|Hiroshi IMAJO|「なごや個人開発者の集い」のご紹介|
+|Dominion525|ITエンジニアのための正しい手斧の投げかた|
+|shogo452|チームビルディングに取り組んだ話(仮)|
+|Kazuhito00|ノードエディタ形式の画像処理ツール「Image-Processing-Node-Editor」|
+|katzueno|キャンピングカーかマラソンネタのどちらか|
+
 
 
 
