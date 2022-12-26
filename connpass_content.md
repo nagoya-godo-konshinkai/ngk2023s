@@ -29,7 +29,7 @@ NGK2023Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 
 
 [募集要項](https://nagoya-godo-konshinkai.github.io/ngk2023s/community-prospectus.html)をお読みの上、[Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLScbjVzbh4rcjslGmeryL8I4CT5XgwveX49GRNIrPXeWBh67uQ/viewform)から応募ください。
-申込期限は **2022/12/23(金) 18:00** です。
+申込期限は ~~2022/12/23(金) 18:00~~ **2023/01/06(金) 18:00** です。
 
 
 # タイムテーブル
