@@ -48,7 +48,7 @@ NGK2023Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 |Kazuhito00|ノードエディタ形式の画像処理ツール「Image-Processing-Node-Editor」|
 |katzueno|キャンピングカーかマラソンネタのどちらか|
 |ueponx|（仮）SORACOM UG、SeeedUG、Node-RED UG Tokaiの告知|
-
+|antimon2|Juliaの○○を××した話|
 
 
 
