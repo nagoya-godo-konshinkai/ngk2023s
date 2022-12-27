@@ -75,7 +75,7 @@ https://nagoya-godo-konshinkai.github.io/ngk2023s/anti-harassment-policy.html
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/sponsor/money-forward.png"/><br/><a href="https://moneyforward.com/">株式会社マネーフォワード</a></td>
 </tr>
 <tr>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/sponsor/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/sponsor/empty.png"/><br/><a href="https://denkiyagi.jp/">デンキヤギ株式会社</a></td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/sponsor/empty.png"/><br/>準備中</td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/sponsor/empty.png"/><br/>準備中</td>
 </tr>
@@ -95,7 +95,7 @@ https://nagoya-godo-konshinkai.github.io/ngk2023s/anti-harassment-policy.html
 <br>尾張・名古屋・師勝・<br>稲沢・西尾</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/misokatsu-web.png"/><br/><a href="https://miso-katsu.web.app/">みそカツウェブ</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/empty.png"/><br/><a href="https://jawsug-nagoya.doorkeeper.jp/">JAWS-UG 名古屋</a></td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/empty.png"/><br/><a href="https://gdg.community.dev/gdg-nagoya/">GDG Nagoya</a></td>
 </tr>
 </table>
 
