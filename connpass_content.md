@@ -90,12 +90,20 @@ https://nagoya-godo-konshinkai.github.io/ngk2023s/anti-harassment-policy.html
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/empty.png"/><br/><a href="https://tokaidolug.colorfultime.net">東海道らぐ</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/othlotech.png"/><br/><a href="https://www.othlo.tech/">OthloTech</a></td>
 </tr>
+
 <tr>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/empty.png"/><br/><a href="https://coderdojo.jp">CoderDojo
 <br>尾張・名古屋・師勝・<br>稲沢・西尾</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/misokatsu-web.png"/><br/><a href="https://miso-katsu.web.app/">みそカツウェブ</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/jaws-ug-nagoya.png"/><br/><a href="https://jawsug-nagoya.doorkeeper.jp/">JAWS-UG 名古屋</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/gdg-nagoya.png"/><br/><a href="https://gdg.community.dev/gdg-nagoya/">GDG Nagoya</a></td>
+</tr>
+
+<tr>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/misokatsu-web.png"/><br/><a href="https://chunog.connpass.com/event/270158/">ChuNOG</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/empty.png"/><br/>準備中</td>
 </tr>
 </table>
 
