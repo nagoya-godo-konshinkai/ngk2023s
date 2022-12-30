@@ -87,7 +87,7 @@ https://nagoya-godo-konshinkai.github.io/ngk2023s/anti-harassment-policy.html
 <tr>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/julia-tokai.jpg"/><br/><a href="https://juliatokai.connpass.com/">JuliaTokai</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/ml-nagoya.png"/><br/><a href="https://machine-learning.connpass.com/">機械学習名古屋研究会</a></td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/empty.png"/><br/><a href="https://tokaidolug.colorfultime.net">東海道らぐ</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/tokaido-lug-300w.png"/><br/><a href="https://tokaidolug.colorfultime.net">東海道らぐ</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/othlotech.png"/><br/><a href="https://www.othlo.tech/">OthloTech</a></td>
 </tr>
 
