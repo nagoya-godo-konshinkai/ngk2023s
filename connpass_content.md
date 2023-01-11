@@ -105,7 +105,14 @@ https://nagoya-godo-konshinkai.github.io/ngk2023s/anti-harassment-policy.html
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/chunog.png"/><br/><a href="https://chunog.connpass.com/event/270158/">ChuNOG</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/jack.png"/><br/><a href="https://jack-website.netlify.app">名古屋大学アプリ開発団体jack</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/tableau-chubu.jpg"/><br/><a href="https://techplay.jp/community/tableau-chubu">中部Tableauユーザー会</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/soracom-ug-tokai.jpg"/><br/><a href="https://soracom.jp/user-group/">SORACOM User Group 東海</a></td>
+</tr>
+<tr>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/node-red-ug-tokai.png"/><br/><a href="https://soracom.jp/user-group/">Node-RED User Group Tokai</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/empty.png"/><br/><a href="https://www.facebook.com/groups/SeeedJPUG/">SeeedJP User Group</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/empty.png"/><br/>準備中</td>
+
 </tr>
 </table>
 
