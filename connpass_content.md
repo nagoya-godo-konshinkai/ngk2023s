@@ -45,7 +45,7 @@ NGK2023Sでは懇親会を「oVice」で開催します。
 |||ueponx|（仮）SORACOM UG、SeeedUG、Node-RED UG Tokaiの告知|
 |||INOUE Takahiro|在宅時に無線LANの不安定さに悩まされて、有線LANをDIYした話|
 |||Dominion525|ITエンジニアのための正しい手斧の投げかた|
-|||kota|(仮)ovice背景画像など|
+|||kota23nisan|oVice背景作ったのは私です|
 |||スタッフ|クロージング|
 
 **18:30から懇親会！！**
