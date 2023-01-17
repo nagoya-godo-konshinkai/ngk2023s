@@ -48,6 +48,7 @@ NGK2023Sでは懇親会を「oVice」で開催します。
 |||kota|(仮)ovice背景画像など|
 |||スタッフ|クロージング|
 
+**18:30から懇親会！！**
 	
 # LTレギュレーション
 https://nagoya-godo-konshinkai.github.io/ngk2023s/lt_regulation.html
