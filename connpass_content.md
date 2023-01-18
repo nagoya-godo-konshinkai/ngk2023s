@@ -33,19 +33,19 @@ NGK2023Sでは懇親会を「oVice」で開催します。
 |||freee株式会社様| スポンサーLT|
 |||株式会社N2i様|スポンサーLT|
 ||||休憩(約18分間)|
-| 16:15 | 17:15 | |**LT#3** (5トーク)|
+| 16:15 | 17:15 | |**LT#3** (6トーク)|
 |||HaochenXie|OCaml最高! スマホ開発にも使えちゃう?!|
 |||katzueno|キャンピングカーかマラソンネタのどちらか|
 |||Hiroshi IMAJO|「なごや個人開発者の集い」のご紹介|
+|||ueponx|（仮）SORACOM UG、SeeedUG、Node-RED UG Tokaiの告知|
 |||有限会社来栖川電算様|スポンサーLT「PDFのビジュアルリグレッションテスト」|
 |||デンキヤギ株式会社様|スポンサーLT|
-||||休憩(約15分間)|
-| 17:05 | 17:50 | |**LT#4** (5トークとクロージング)|
+||||休憩(約18分間)|
+| 17:15 | 17:50 | |**LT#4** (4トークとクロージング)|
 |||Kazuhito00|ノードエディタ形式の画像処理ツール「Image-Processing-Node-Editor」|
-|||ueponx|（仮）SORACOM UG、SeeedUG、Node-RED UG Tokaiの告知|
 |||INOUE Takahiro|在宅時に無線LANの不安定さに悩まされて、有線LANをDIYした話|
 |||Dominion525|ITエンジニアのための正しい手斧の投げかた|
-|||kota23nisan|oVice背景作ったのは私です|
+|||kota23|oVice背景作ったのは私です|
 |||スタッフ|クロージング|
 
 **18:30から懇親会！！**
@@ -123,13 +123,15 @@ https://nagoya-godo-konshinkai.github.io/ngk2023s/anti-harassment-policy.html
 # スタッフ
 ※abc順
 
-* [antimon2](https://connpass.com/user/antimon2/open/)
-* [c0hama](https://connpass.com/user/c0hama/open/)
-* [katzueno](https://connpass.com/user/katzueno/open/)
-* [TOOKA](https://connpass.com/user/TOOKA/open/)
-* [usakotail](https://connpass.com/user/usakotail/open/)
-* [unarist](https://connpass.com/user/unarist/open/)
-* [yuji38kwmt](https://connpass.com/user/yuji38kwmt/open/)
+* [antimon2](https://connpass.com/user/antimon2)
+* [c0hama](https://connpass.com/user/c0hama)
+* [katzueno](https://connpass.com/user/katzueno)
+* [kota23](https://connpass.com/user/kota23nisan)
+* [TOOKA](https://connpass.com/user/TOOKA/)
+* [usakotail](https://connpass.com/user/usakotail/)
+* [unarist](https://connpass.com/user/unarist)
+* [yuji38kwmt](https://connpass.com/user/yuji38kwmt)
+* [山口陽平](https://connpass.com/user/youhei_yamaguchi)
 
 ## 名誉会長
 * [terurou](https://connpass.com/user/terurou/)
