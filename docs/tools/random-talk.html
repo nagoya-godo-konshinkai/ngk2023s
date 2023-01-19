@@ -1,0 +1,97 @@
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>NGK2022S ランダムトーク</title>
+</head>
+
+<body>
+  <h1>NGK2022S ランダムトーク 振り分けツール</h1>
+  <h2>使い方</h2>
+  <ul>
+    <li>connpassの参加者一覧ページ（<a href="https://ngk2022s.connpass.com/event/237079/participation/">https://ngk2022s.connpass.com/event/237079/participation/</a>）でブックマークレット
+    を実行すると、ページ上部にテーブル一覧が表示されます。</li>
+    <li>ブックマークレットを実行するたびに、グループ分けがシャッフルされます</li>
+    <li>注意: 9テーブル×7人=合計63人まで対応しています。63人を超える場合、一覧の先頭63人のみを対象にします。</li>
+    <li>注意: 一覧を表示した後にウィンドウ幅を変えると表示が崩れることがあります。再実行すると直ります。</li>
+  </ul>
+  <h2>ブックマークレット</h2>
+  <noscript>
+    ブックマークレットを使うには、一度このファイルをダウンロードしてから開いてください。<br>
+    Download and open this HTML to use the bookmarklet.
+  </noscript>
+  <script>
+    const x =
+      // 本体ここから
+
+      (() => {
+        const qsa = q => [...document.querySelectorAll(q)];
+        const tag = (n, p, c = []) => { const e = Object.assign(document.createElement(n), p); e.append(...c); return e };
+        const parse = html => Object.assign(document.createElement('div'), { innerHTML: html }).firstElementChild;
+        qsa('.label_ptype_name, .label_status_tag').forEach(x => x.remove());
+
+        const { users, groups } = (() => {
+          if (qsa('#ngk-tables').length) {
+            return {
+              users: qsa('#ngk-tables > div'),
+              groups: qsa('#ngk-tables > fieldset')
+            }
+          }
+          const users = qsa('.participation_table_area .user_info').slice(0, 63).map(x => tag('div', { style: "position: absolute; width: 330px; height: 45px; transition: top 1s, left 1s" }, [
+            tag('img', { src: x.querySelector('img').src, style: 'position: absolute; width: 30px; height: 36px; border: 1px solid #999' }),
+            tag('p', { textContent: x.querySelector('.display_name').textContent, style: "margin-left: 45px; text-decoration: underline" }),
+            tag('p', { textContent: x.querySelector('.user_profile').textContent, style: "margin-left: 45px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis" })
+          ]));
+
+          const groups = [..."ABCDEFGHI"].map(g => parse(`
+    <fieldset style="border: none; width: 360px; height: 400px; margin: 10px; background: #e3e8ef">
+    <legend style="text-align: center; font-size: 1.2em;font-weight: bold;background: #6E0100;color: #FFCB01;border-radius: 30px;padding: 2px 10px;border: 2px solid #D9B201;margin:auto">${g}</legend>
+    </fieldset>`));
+          const container = parse('<div id="ngk-tables" style="position: relative; display: flex; flex-wrap: wrap; align-content: flex-start; background: #72849E; min-height: 100vh"></div>');
+          document.body.insertAdjacentElement("afterbegin", container);
+          container.append(...groups, ...users);
+
+          return { users, groups, container };
+        })();
+
+
+        const offsets = groups.map(el => ({ left: el.offsetLeft + 8, top: el.offsetTop + 50 }));
+
+        const applyPosition = table_members => {
+          for (const [table, members] of Object.entries(table_members)) {
+            for (const [idx, member] of Object.entries(members)) {
+              const table_offset = offsets[table];
+              member.style.top = `${table_offset.top + member.offsetHeight * idx}px`;
+              member.style.left = `${table_offset.left + 10}px`;
+            }
+          }
+        }
+
+        const shuffle = ([...arr]) => {
+          let m = arr.length;
+          while (m) {
+            const i = Math.floor(Math.random() * m--);
+            [arr[m], arr[i]] = [arr[i], arr[m]];
+          }
+          return arr;
+        };
+
+        const groupItems = items => {
+          // 最大4人最大9卓としてテーブル数を決めて、各テーブルに配る
+          const group_count = Math.min(Math.ceil(items.length / 4), 9);
+          const result = Array.from(new Array(group_count), _ => []);
+          shuffle(items).forEach((v, i) => result[i % group_count].push(v));
+          return result;
+        }
+
+        applyPosition(groupItems(users));
+      });
+
+    // 本体ここまで
+
+    document.body.appendChild(document.createTextNode('右のリンクをブックマークバーにドラッグして登録: '));
+    document.body.appendChild(Object.assign(document.createElement('a'), { href: `javascript:(${encodeURIComponent(x.toString())})()`, textContent: document.title }));
+  </script>
+</body>
+
+</html>
