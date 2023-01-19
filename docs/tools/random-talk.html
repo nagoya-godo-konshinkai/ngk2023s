@@ -2,14 +2,14 @@
 
 <head>
   <meta charset="utf-8">
-  <title>NGK2022S ランダムトーク</title>
+  <title>NGK2023S ランダムトーク</title>
 </head>
 
 <body>
-  <h1>NGK2022S ランダムトーク 振り分けツール</h1>
+  <h1>NGK2023S ランダムトーク 振り分けツール</h1>
   <h2>使い方</h2>
   <ul>
-    <li>connpassの参加者一覧ページ（<a href="https://ngk2022s.connpass.com/event/237079/participation/">https://ngk2022s.connpass.com/event/237079/participation/</a>）でブックマークレット
+    <li><a href="https://ngk2022s.connpass.com/event/268542/">connpassの参加者一覧ページ</a>）でブックマークレット
     を実行すると、ページ上部にテーブル一覧が表示されます。</li>
     <li>ブックマークレットを実行するたびに、グループ分けがシャッフルされます</li>
     <li>注意: 9テーブル×7人=合計63人まで対応しています。63人を超える場合、一覧の先頭63人のみを対象にします。</li>
@@ -43,11 +43,11 @@
             tag('p', { textContent: x.querySelector('.user_profile').textContent, style: "margin-left: 45px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis" })
           ]));
 
-          const groups = [..."ABCDEFGHI"].map(g => parse(`
-    <fieldset style="border: none; width: 360px; height: 400px; margin: 10px; background: #e3e8ef">
-    <legend style="text-align: center; font-size: 1.2em;font-weight: bold;background: #6E0100;color: #FFCB01;border-radius: 30px;padding: 2px 10px;border: 2px solid #D9B201;margin:auto">${g}</legend>
+          const groups = [..."123456789"].map(g => parse(`
+    <fieldset style="border: none; width: 360px; height: 400px; margin: 10px; background: #efe4dd">
+    <legend style="text-align: center; font-size: 1.25em;font-weight: bold;background: #734c25;color: white;border-radius: 30px;padding: 1px 7px;border: 3px solid yellow;box-shadow: 0.5px 0.5px 2px 0px #808080;margin:auto">${g}</legend>
     </fieldset>`));
-          const container = parse('<div id="ngk-tables" style="position: relative; display: flex; flex-wrap: wrap; align-content: flex-start; background: #72849E; min-height: 100vh"></div>');
+          const container = parse('<div id="ngk-tables" style="position: relative; display: flex; flex-wrap: wrap; align-content: flex-start; background: #c1b4a3; min-height: 100vh"></div>');
           document.body.insertAdjacentElement("afterbegin", container);
           container.append(...groups, ...users);
 
