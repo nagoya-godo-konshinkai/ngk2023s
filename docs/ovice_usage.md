@@ -23,13 +23,16 @@ NGK2023Sの会場には、いくつか小ネタが仕込まれています。い
 [ミニマップ機能](https://ja.ovice.wiki/70f64081b0cf4c278552047f0eab17aa)を使うと、遠くの場所でも簡単に移動できます。
 
 # LT発表を視聴しよう
-壇上近くのYouTubeアイコンをクリックすると、LT発表を視聴しましょう。
+LT発表はYouTube Liveで配信されます。
+https://www.youtube.com/watch?v=NEpRBK82KIg
+
+壇上近くのYouTubeアイコンに近づくと、動画が再生されます。
+※ **LT発表中（14:00以降）しか再生されません
+※ Youtubeウィンドウの位置は移動可能です
 
 ![](https://nagoya-godo-konshinkai.github.io/ngk2023s/img/ovice/youtube1.png)
 
-YouTubeウィンドウを閉じる場合は、右上の「leave」ボタンを押してください。
-
-![](https://nagoya-godo-konshinkai.github.io/ngk2023s/img/ovice/youtube2.png)
+動画の試聴を辞める場合は、YouTubeアイコンから離れてください。
 
 
 # コミュニケーションをとろう
@@ -50,6 +53,7 @@ YouTubeウィンドウを閉じる場合は、右上の「leave」ボタンを�
 ## リアクションしよう
 [リアクション機能](https://ja.ovice.wiki/400b56ce98a0496ebc7566fb304fd50b)を使って、拍手や挙手をしてみましょう。
 リアクションすると効果音も鳴ります。
+また、近くのユーザー同士が互いに「ハイタッチ」リアクションすると、ハイタッチの効果音がなります。
 
 ## チャットでメッセージを送信しよう
 [チャット機能](https://ja.ovice.wiki/7321fceda12643b588e0c8baecf97a14)でメッセージを送信してみましょう。
