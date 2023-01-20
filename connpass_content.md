@@ -4,6 +4,8 @@
 参加者同士の交流ができるので、是非oViceにアクセスして交流をお楽しみください。
 oViceのURLはconnpassの「参加者への情報」に掲載しています。
 
+oViceの使い方は、以下を参照ください。
+https://nagoya-godo-konshinkai.github.io/ngk2023s/ovice_usage.html
 
 # YouTube配信
 <span style="color:red; font-size:16px;">NGK2023SはYoutubeでライブ配信しています！</span>
