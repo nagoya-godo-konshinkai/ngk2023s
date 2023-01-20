@@ -23,12 +23,12 @@ NGK2023Sの会場には、いくつか小ネタが仕込まれています。い
 [ミニマップ機能](https://ja.ovice.wiki/70f64081b0cf4c278552047f0eab17aa)を使うと、遠くの場所でも簡単に移動できます。
 
 # LT発表を視聴しよう
-LT発表はYouTube Liveで配信されます。
-https://www.youtube.com/watch?v=NEpRBK82KIg
+LT発表は[YouTube Live](https://www.youtube.com/watch?v=NEpRBK82KIg)で配信されます。
+
 
 壇上近くのYouTubeアイコンに近づくと、動画が再生されます。
-※ **LT発表中（14:00以降）しか再生されません
-※ Youtubeウィンドウの位置は移動可能です
+* **LT発表中（14:00以降）しか再生されません**
+* Youtubeウィンドウの位置は移動可能です
 
 ![](https://nagoya-godo-konshinkai.github.io/ngk2023s/img/ovice/youtube1.png)
 
