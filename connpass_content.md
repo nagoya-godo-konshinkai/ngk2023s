@@ -1,3 +1,18 @@
+# メイン会場：バーチャルオフィス「oVice」
+<span style="color:red; font-size:16px;">NGK2023Sは、バーチャルオフィス「oVice」で開催します！</span>
+
+参加者同士の交流ができるので、是非oViceにアクセスして交流をお楽しみください。
+oViceのURLはconnpassの「参加者への情報」に掲載しています。
+
+
+# YouTube配信
+<span style="color:red; font-size:16px;">NGK2023SはYoutubeでライブ配信しています！</span>
+
+https://www.youtube.com/watch?v=NEpRBK82KIg
+
+
+
+
 # 概要
 NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方IT系コミュニティ合同の懇親会イベントです。
 今回で第15回目となります！
