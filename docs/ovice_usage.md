@@ -29,7 +29,7 @@ NGK2023Sの会場には、いくつか小ネタが仕込まれています。い
 
 YouTubeウィンドウを閉じる場合は、右上の「leave」ボタンを押してください。
 
-![](https://nagoya-godo-konshinkai.github.io/ngk2023s/img/ovice/youtube1.png)
+![](https://nagoya-godo-konshinkai.github.io/ngk2023s/img/ovice/youtube2.png)
 
 
 # コミュニケーションをとろう
