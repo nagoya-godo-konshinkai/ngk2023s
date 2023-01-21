@@ -38,7 +38,7 @@
             }
           }
           const users = qsa('.participation_table_area .user_info').slice(0, 63).map(x => tag('div', { style: "position: absolute; width: 330px; height: 45px; transition: top 1s, left 1s" }, [
-            tag('img', { src: x.querySelector('img').src, style: 'position: absolute; width: 30px; height: 36px; border: 1px solid #999' }),
+            tag('img', { src: x.querySelector('img').src, style: 'position: absolute; width: 36px; height: 36px; border: 1px solid #999' }),
             tag('p', { textContent: x.querySelector('.display_name').textContent, style: "margin-left: 45px; text-decoration: underline" }),
             tag('p', { textContent: x.querySelector('.user_profile').textContent, style: "margin-left: 45px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis" })
           ]));
@@ -65,6 +65,12 @@
               member.style.left = `${table_offset.left + 10}px`;
             }
           }
+
+          console.log(
+            Object.entries(table_members)
+            .map(([table, members]) => `テーブル${groups[table].textContent.trim()}: ${members.map(x => x.querySelector("p").textContent.trim()).join(", ")}`)
+            .join("\n")
+          );
         }
 
         const shuffle = ([...arr]) => {
